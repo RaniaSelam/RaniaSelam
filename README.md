@@ -1,17 +1,19 @@
 # Hi, I'm Rania   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5NzJrMmpqNzZmMzM4Z3ppejI0ejU0NGRzcHZmYmxxbjBiNTB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="40" height="40" alt="Gif"> 
 # Cybersecurity guardian in training   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhhcTN1dHdyY21vZjJieDljeWs1ODFpaHExczRnbTk2dnBienc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txP2ffxGUvkcmVxbio/giphy.gif" width="40" height="40" alt="Gif2"> 
-I'm a first-year computer science student specializing in cybersecurity. 
-Although I'm not a pro yet, I'd like to share some of my projects with others who are just starting out. 
+I'm a first-year computer science student specializing in cybersecurity.
+Although I'm not a pro yet, I'd like to share some of my projects with others who are just starting out.
 Feel free to explore my projects and connect with me. Let's learn together :) !
 
 <a href="https://www.linkedin.com/in/rania-selam-573514293/" target="_blank">
   <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/11ef8aa0-423d-4dbd-8065-448bc4a45beb" alt="LinkedIn" style="width:40px;height:40px;margin-right:20px;">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rselam@guardiaschool.fr" target="_blank">
   <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/8a9bc390-69cb-4e7b-a111-700eb2b97983" alt="Outlook" style="width:40px;height:40px;margin-right:20px;">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discordapp.com/users/ranoo_o" target="_blank">
-  <img src="" alt="Discord" style="width:40px;height:40px;">
+  <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/cf0ddc85-b926-4ccc-86c7-2b6fa941cd9c" alt="Discord" style="width:40px;height:40px;">
 </a>
 
 <!--
