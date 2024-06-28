@@ -3,6 +3,10 @@
 I'm a first-year computer science student specializing in cybersecurity. 
 Although I'm not a pro yet, I'd like to share some of my projects with others who are just starting out. 
 Feel free to explore my projects and connect with me. Let's learn together :) !
+
+<a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+  <img src="https://www.linkedin.com/in/rania-selam-573514293/" alt="LinkedIn" style="width:40px;height:40px;margin-right:10px;">
+</a>
 <!--
 ## Getting Started
 
