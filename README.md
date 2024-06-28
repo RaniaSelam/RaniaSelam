@@ -5,8 +5,10 @@ Although I'm not a pro yet, I'd like to share some of my projects with others wh
 Feel free to explore my projects and connect with me. Let's learn together :) !
 
 <a href="https://www.linkedin.com/in/rania-selam-573514293/" target="_blank">
-  <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/11ef8aa0-423d-4dbd-8065-448bc4a45beb" alt="LinkedIn" style="width:40px;height:40px;margin-right:10px;">
-</a>
+  <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/11ef8aa0-423d-4dbd-8065-448bc4a45beb" alt="LinkedIn" style="width:40px;height:40px;margin-right:20px;">
+</a> <a href="rselam@guardiaschool.fr" target="_blank">
+  <img src="https://github.com/RaniaSelam/RaniaSelam/assets/173706533/8a9bc390-69cb-4e7b-a111-700eb2b97983" alt="LinkedIn" style="width:40px;height:40px;margin-right:20px;">
+
 <!--
 ## Getting Started
 
