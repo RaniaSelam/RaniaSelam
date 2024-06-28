@@ -1,6 +1,7 @@
-## Hi, I'm Rania <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5NzJrMmpqNzZmMzM4Z3ppejI0ejU0NGRzcHZmYmxxbjBiNTB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="40" height="40" alt="Gif">
-## Cybersecurity guardian in training <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhhcTN1dHdyY21vZjJieDljeWs1ODFpaHExczRnbTk2dnBienc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txP2ffxGUvkcmVxbio/giphy.gif" width="40" height ="40" alt="Gif2">
-
+# Hi, I'm Rania <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5NzJrMmpqNzZmMzM4Z3ppejI0ejU0NGRzcHZmYmxxbjBiNTB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="40" height="40" alt="Gif"> 
+# Cybersecurity guardian in training <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhhcTN1dHdyY21vZjJieDljeWs1ODFpaHExczRnbTk2dnBienc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txP2ffxGUvkcmVxbio/giphy.gif" width="40" height="40" alt="Gif2"> 
+### I'm a first-year computer science student specializing in cybersecurity. Although I'm not a pro yet, I'd like to share some of my projects with others who are just starting out. 
+### Feel free to explore my projects and connect with me. Let's learn together! :)
 <!--
 ## Getting Started
 
