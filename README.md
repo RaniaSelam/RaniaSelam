@@ -1,5 +1,5 @@
-## Hi, I'm Rania 👋
-### Cybersecurity guardian in training
+## Hi, I'm Rania <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg5NzJrMmpqNzZmMzM4Z3ppejI0ejU0NGRzcHZmYmxxbjBiNTB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="40" height="40" alt="Gif">
+## Cybersecurity guardian in training <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhhcTN1dHdyY21vZjJieDljeWs1ODFpaHExczRnbTk2dnBienc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txP2ffxGUvkcmVxbio/giphy.gif" width="40" height ="40" alt="Gif2">
 
 <!--
 ## Getting Started
