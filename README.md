@@ -19,8 +19,6 @@ Feel free to explore my projects and connect with me. Let's learn together :) !<
 
 ## Some cybersecurity projects <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2N2N1enpmdXl3cmJ5MDQ4MThyeGJ5Nmc5YndvcTJmcGFvZmt4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="40" height="40" alt="Gif"> :
 - [Introduction to network structuring and security](https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security)
-- Projet 2
-- Projet 3
 
 <!--
 ## Getting Started
